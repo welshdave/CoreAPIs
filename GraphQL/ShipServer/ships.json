@@ -1,0 +1,1970 @@
+[
+    {
+       "Class":"Akira",
+       "Name":"USS Gryphon",
+       "Registry":"NCC-65550",
+       "Details":"Commanded by Captain Elaine Mello. Assigned to defend Deep Space Nine for a short period of time after the Dominion War in the Deep Space Nine relaunch."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS James T Kirk",
+       "Registry":"NCC-91277",
+       "Details":"Commanded by Captain Elias Vaughn. Named in honor of the famous Starfleet captain. Destroyed in the defense of Federation worlds against the mass Borg invasion of 2381, resulting in the death of 31 crew members and Captain Vaughn being left brain dead."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Rabin",
+       "Registry":"NCC-63293",
+       "Details":"Participates in the Battle of Sector 001."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Thunderchild",
+       "Registry":"NCC-63549",
+       "Details":"Participates in the Battle of Sector 001 in 2373."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Geronimo",
+       "Registry":"NCC-69302",
+       "Details":"Commanded by Captain Gregory McCray; Major supporting ship in Star Trek: Bridge Commander."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Leyte Gulf",
+       "Registry":"NCC-71427",
+       "Details":"Commanded by Captain Aaron Juraj; first Starfleet vessel to be infected by nanites in Star Trek: Away Team."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Dakota",
+       "Registry":"NCC-63892",
+       "Details":"Participates in the Battle of Sector 001 in 2373. Lost patrolling the border of the Cardassian Demilitarized Zone."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Devore",
+       "Registry":"NCC-64088",
+       "Details":"Commanded by Captain Joshua Martin; Supporting ship in Star Trek: Bridge Commander."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Delestrez",
+       "Registry":"NCC-64013",
+       "Details":"Commanded by Captain Juliette; Supporting ship in Celestia Universe."
+    },
+    {
+       "Class":"Akira",
+       "Name":"USS Summit",
+       "Registry":"NCC-63546",
+       "Details":"Attempts to rescue the Enterprise-E on Gemworld. Destroyed by a dimensional rift immediately after dropping out of warp. Lost with all hands."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Adelphi",
+       "Registry":"NCC-26849",
+       "Details":"Crew made first contact with the Ghorusda."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701-C",
+       "Details":"Commanded by Captain Rachel Garrett presumed to be Killed In Action when the ship was destroyed defending the Klingon outpost at Narendra III from Romulan attack. Helmsman Richard Castillo assumed command of the Enterprise-C in 2366 and returned to the year 2344 where the ship was destroyed defending the Klingon outpost."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Excalibur",
+       "Registry":"NCC-26517",
+       "Details":"Part of the tachyon blockade during the Klingon Civil War. Later commanded by Captain Mackenzie Calhoun in Star Trek: New Frontier."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Exeter",
+       "Registry":"NCC-26531",
+       "Details":"Tom Paris's assignment before being dismissed from Starfleet. Participated in the Dominion War. Later commanded by Captain Elizabeth Shelby, followed by Captain Alexandra Garbeck in Star Trek: New Frontier."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Gandhi",
+       "Registry":"NCC-26632",
+       "Details":"Ship to which Thomas Riker is assigned."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Horatio",
+       "Registry":"NCC-10532",
+       "Details":"Commanded by Captain Walker Keel. Destroyed by agents of an alien conspiracy to take over Starfleet."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Valdemar",
+       "Registry":"NCC-26198",
+       "Details":"Sent to the border of the Cardassian Demilitarized Zone."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Yamaguchi",
+       "Registry":"NCC-26510",
+       "Details":"Destroyed by the Borg at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Ambassador",
+       "Name":"USS Zhukov",
+       "Registry":"NCC-26136",
+       "Details":"Made cultural observation of Alpha Laputa IV. Previous assignment of Lt. Barclay before transfer to the Enterprise-D Supporting ship in Star Trek: Bridge Commander, commanded by an Andorian Captain Verata, the ship escorts the USS Sovereign to Starbase 12 and participates in several battles."
+    },
+    {
+       "Class":"Antares",
+       "Name":"USS Antares aka SS Antares",
+       "Registry":"NCC-501",
+       "Details":"Rescued and is later destroyed by Charlie Evans."
+    },
+    {
+       "Class":"Antares",
+       "Name":"USS Hermes",
+       "Registry":"NCC-10376",
+       "Details":"Part of the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Apollo",
+       "Name":"USS Agamemnon",
+       "Registry":"NCC-11638",
+       "Details":"Part of the tachyon blockade during the Klingon Civil War. Part of \"Task Force 3\" sent to face an anticipated Borg Attack"
+    },
+    {
+       "Class":"Apollo",
+       "Name":"USS Ajax",
+       "Registry":"NCC-11574",
+       "Details":"Cortin Zweller's first assignment. Received experimental warp drive technology. Part of the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Apollo",
+       "Name":"USS Clement",
+       "Registry":"NCC-12537",
+       "Details":"Scheduled to rendezvous with the Enterprise-D."
+    },
+    {
+       "Class":"Apollo",
+       "Name":"USS Gage",
+       "Registry":"NCC-11672",
+       "Details":"Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Archer",
+       "Name":"USS Archer",
+       "Registry":"NCC-44278",
+       "Details":"Presumable namesake ship for the class. Presumably named for Jonathan Archer"
+    },
+    {
+       "Class":"Archer",
+       "Name":"USS Huang Zhong",
+       "Registry":"NX-45298",
+       "Details":"Mentioned in the tie-in novel Star Trek: Seekers #4: All That's Left. Crashed on a planet in a spatial rift. Crew rescued by the Enterprise resulting in first contact with the Dolysians."
+    },
+    {
+       "Class":"Archer",
+       "Name":"USS Sagittarius",
+       "Registry":"NCC-1894",
+       "Details":"Commanded by Clark Terrell prior to taking command of the USS Reliant. Assigned to explore the Taurus Reach. Presumably named for the constellation."
+    },
+    {
+       "Class":"Bradbury",
+       "Name":"USS Bradbury",
+       "Registry":"NX-72307",
+       "Details":"Scheduled to transport Wesley Crusher to Starfleet Academy and undergoes warp drive performance tests.. In Star Trek Into Darkness, Spock was to be reassigned to another Bradbury following Kirk's demotion from Captain of the Enterprise. In the end, he was reinstated to the Enterprise."
+    },
+    {
+       "Class":"Centaur",
+       "Name":"USS Centaur",
+       "Registry":"NCC-42043",
+       "Details":"Centaur class: kitbash of the Excelsior and Miranda models."
+    },
+    {
+       "Class":"Challenger",
+       "Name":"USS Armstrong",
+       "Registry":"NCC-57537",
+       "Details":"Ambushed by a Klingon battle group. Name honors astronaut Neil Armstrong, commander of Apollo 11."
+    },
+    {
+       "Class":"Challenger",
+       "Name":"USS Buran",
+       "Registry":"NCC-57580",
+       "Details":"Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Challenger",
+       "Name":"USS Kearsarge",
+       "Registry":"NCC-57566",
+       "Details":"Rendezvoused with the Enterprise-D."
+    },
+    {
+       "Class":"Cheyenne",
+       "Name":"USS Ahwahnee",
+       "Registry":"NCC-71620/NCC-73620",
+       "Details":"Heavily damaged at the Battle of Wolf 359. Presumed repaired to participate in the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Chimera",
+       "Name":"USS Portland",
+       "Registry":"NCC-57418",
+       "Details":"Searches the Algira sector for Odo and Elim Garak when their runabout goes missing."
+    },
+    {
+       "Class":"Columbia",
+       "Name":"USS Endeavour",
+       "Registry":"NCC-06",
+       "Details":"Originally the last active NX class starship in the Earth Starfleet. Transferred to Federation Starfleet service and rebuilt into the first Columbia class starship."
+    },
+    {
+       "Class":"Constellation",
+       "Name":"USS Billings",
+       "Registry":"NCC-3907",
+       "Details":"Kathryn Janeway's first command."
+    },
+    {
+       "Class":"Constellation",
+       "Name":"USS Constellation",
+       "Registry":"NCC-1974",
+       "Details":"Participated in the Dominion War."
+    },
+    {
+       "Class":"Constellation",
+       "Name":"USS Gettysburg",
+       "Registry":"NCC-3890",
+       "Details":"Under Captain Mark Jameson, rescued hostages from Mordan IV. Served in the Dominion War."
+    },
+    {
+       "Class":"Constellation",
+       "Name":"USS Hathaway",
+       "Registry":"NCC-2593",
+       "Details":"Decommissioned, participated in exercises against the USS Enterprise-D. Its destruction was faked in a ruse to foil Ferengi attackers. Named for the wife of William Shakespeare."
+    },
+    {
+       "Class":"Constellation",
+       "Name":"USS Magellan",
+       "Registry":"NCC-3069",
+       "Details":"Referred to by Captain Sisko as one of the ships to protect the USS Defiant's flank"
+    },
+    {
+       "Class":"Constellation",
+       "Name":"USS Stargazer",
+       "Registry":"NCC-2893",
+       "Details":"Jean-Luc Picard's first command. Abandoned following the Battle of Maxia, later recovered by Starfleet."
+    },
+    {
+       "Class":"Constellation",
+       "Name":"USS Victory",
+       "Registry":"NCC-9754",
+       "Details":"Ship on which Geordi La Forge once served. Participated in the Dominion War. Named after the Napoleonic Wars British Royal Navy flagship, HMS Victory flagship of Horatio Nelson, 1st Viscount Nelson"
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Constellation",
+       "Registry":"NCC-1017",
+       "Details":"Commanded by Commodore Matthew Decker. All of crew was killed by the Doomsday Machine except for Commodore Decker. Used as a bomb to destroy the planet-killer."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Defiant",
+       "Registry":"NCC-1764",
+       "Details":"The ship is lost in an interdimensional rift in \"The Tholian Web\". Later, it is revealed she was taken by Mirror Universe Tholians, captured by the crew of ISS Enterprise (NX-01), and then used in the service of the Terran Empire in \"In a Mirror, Darkly\". The Defiant is mentioned, but not seen (except for a wireframe graphic) in Star Trek Discovery, Season One."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"ISS Enterprise",
+       "Registry":"NCC-1701",
+       "Details":"Mirror Universe version of the USS Enterprise in \"Mirror, Mirror\"."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701",
+       "Details":"Commanded by Robert April (2245?2250), Christopher Pike (2250?2265), James T. Kirk (2265-2270, 2273?2280, 2285), Willard Decker (2270-2273, ship's commander during refit up to V'Ger incident), and Spock (2280-2285, at which time Enterprise was assigned to Starfleet Academy as a training ship). Vessel's self-destruction carried out while in orbit of the Genesis Planet to prevent ship from falling into Klingon hands."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Enterprise (Kelvin Timeline)",
+       "Registry":"NCC-1701",
+       "Details":"Originally commanded by Christopher Pike (launched 2258), then James T. Kirk. Destroyed by Krall in 2263."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Enterprise (Kelvin Timeline)",
+       "Registry":"NCC-1701-A",
+       "Details":"Replacement for USS Enterprise launched in 2263."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Excalibur",
+       "Registry":"NCC-1664",
+       "Details":"Severely damaged and crew killed during Richard Daystrom's M5 computer test."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Exeter",
+       "Registry":"NCC-1672",
+       "Details":"All crew lost (killed by alien disease) except for Captain Ronald Tracey, who was on the planet's surface when the disease struck his crew."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Farragut",
+       "Registry":"NCC-1647",
+       "Details":"Ship on which James Kirk served as a phaser station operator. Attacked by the dikironium cloud creature, which killed half the crew. The ship never appeared on screen and was never given a class or registry number; both come from The Star Trek Encyclopedia."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Hood",
+       "Registry":"NCC-1703",
+       "Details":"Participates in Richard Daystrom's M5 computer test."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Intrepid",
+       "Registry":"NCC-1631",
+       "Details":"All-Vulcan crew destroyed by a massive, spacegoing single-celled life form."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Lexington",
+       "Registry":"NCC-1709",
+       "Details":"Participates in Richard Daystrom's M5 computer test. Commanded by Commodore Robert Wesley"
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Potemkin",
+       "Registry":"NCC-1657",
+       "Details":"Participates in Richard Daystrom's M5 computer test."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Yorktown",
+       "Registry":"NCC-1717",
+       "Details":"Disabled by alien probe."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Pegasus",
+       "Registry":"NCC-1702",
+       "Details":"Patrolled the Klingon Neutral Zone."
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Valiant",
+       "Registry":"NCC-",
+       "Details":""
+    },
+    {
+       "Class":"Constitution",
+       "Name":"USS Paris",
+       "Registry":"NCC-1804",
+       "Details":"Destroyed in The Battle Of Caleb IV."
+    },
+    {
+       "Class":"Constitution (refit)",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701",
+       "Details":"USS Enterprise NCC-1701 was refitted following extensive service. with upgraded weapons, shields, sensors, and warp core. Commanded during refit by Captain Willard Decker. Command given to Admiral James T. Kirk after he met with Starfleet Command. Spock handed control over to Kirk. Eventually stolen and destroyed while in orbit of the Genesis Planet to prevent it from falling into Klingon hands. Served as primary vessel for Star Trek: The Motion Picture, Star Trek II: The Wrath of Khan, and Star Trek III: The Search for Spock."
+    },
+    {
+       "Class":"Constitution (refit)",
+       "Name":"USS Yorktown, USS Enterprise (from 2286)",
+       "Registry":"NCC 1717, NCC 1701 A (from 2286)",
+       "Details":"Disabled by whale probe, then possibly salvaged and renamed Enterprise; although no onscreen evidence supports this. Command given to James T. Kirk following demotion to Captain. Primary setting for Star Trek V: The Final Frontier and Star Trek VI: The Undiscovered Country, later decommissioned."
+    },
+    {
+       "Class":"Constitution (refit)",
+       "Name":"USS Explorer",
+       "Registry":"NCC-1986",
+       "Details":"Seen investigating the results of the Tabula Rasa Incident in the opening sequence of the video game Star Trek: New Worlds. Commanded by Captain Gibson."
+    },
+    {
+       "Class":"Constitution (refit)",
+       "Name":"USS Ranger (Simulation ship)",
+       "Registry":"NCC-1707",
+       "Details":"Another simulated Enterprise class ship used by Starfleet Academy trainees in Star Trek: Starfleet Academy"
+    },
+    {
+       "Class":"Constitution (refit)",
+       "Name":"USS Paris",
+       "Registry":"NCC-1804",
+       "Details":"Destroyed in The Battle Of Caleb IV."
+    },
+    {
+       "Class":"Crossfield",
+       "Name":"USS Discovery",
+       "Registry":"NCC-1031",
+       "Details":"Titular ship in 2017 television series Star Trek: Discovery. Commanded by Captain Gabriel Lorca, the Discovery is a science vessel commissioned to investigate potential forms of faster-than-light propulsion such as the spore drive."
+    },
+    {
+       "Class":"Crossfield",
+       "Name":"USS Glenn",
+       "Registry":"NCC-1030",
+       "Details":"Sister ship to the Discovery. Scuttled following a failed propulsion experiment."
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Archon",
+       "Registry":"NCC-189",
+       "Details":"Destroyed by alien computer in 2167 near Beta III."
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Carolina",
+       "Registry":"NCC-160",
+       "Details":"Freighter."
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Essex",
+       "Registry":"NCC-173",
+       "Details":"Damaged and crashed on Mab-Bu VI."
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Horizon",
+       "Registry":"NCC-176",
+       "Details":"A model of this ship was on display in the school aboard Deep Space 9 in early 2369. (DS9: \"The Nagus\")"
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Pilgrim",
+       "Registry":"NCC-178",
+       "Details":"Active in the year 2159 in the vicinity of one of Starfleet's first starbases. Appears in the Star Trek videogame \"Legacy\"."
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Lovell",
+       "Registry":"NCC-470",
+       "Details":"Dedicated vessel of the Starfleet Corps of Engineers. Appears in the novel series Star Trek: Vanguard. Likely named after Capt. James Lovell USN"
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Masao",
+       "Registry":"unknown",
+       "Details":"Dedicated vessel of the Starfleet Corps of Engineers. Mentioned in the tie-in novel Star Trek: Seekers #4: All That's Left."
+    },
+    {
+       "Class":"Daedalus",
+       "Name":"USS Zander",
+       "Registry":"unknown",
+       "Details":"Dedicated vessel of the Starfleet Corps of Engineers. Mentioned in the tie-in novel Star Trek: Seekers #4: All That's Left."
+    },
+    {
+       "Class":"Defiant",
+       "Name":"USS Defiant",
+       "Registry":"NX-74205",
+       "Details":"Pathfinder. Assigned to space station Deep Space Nine. Participates in the Battle of Sector 001. Destroyed at the Second Battle of Chin'toka."
+    },
+    {
+       "Class":"Defiant",
+       "Name":"USS Defiant",
+       "Registry":"(dedication plaque) NCC-75633 (exterior) NX-74205",
+       "Details":"Formerly the USS S?o Paulo. Assigned to space station Deep Space Nine. Participates in the Battle of Cardassia."
+    },
+    {
+       "Class":"Defiant",
+       "Name":"USS Saladin",
+       "Registry":"NCC-74350",
+       "Details":"Commanded by Captain Shinoda during the Dominion War in the short story \"Safe Harbors\"."
+    },
+    {
+       "Class":"Defiant",
+       "Name":"USS Valiant",
+       "Registry":"NCC-74210",
+       "Details":"Starfleet Academy Red Squad training ship. The vessel gets caught behind enemy lines after the outbreak of the Dominion War, suffered heavy losses among the standard crew and was subsequently commanded by the cadets of Red Squad. Destroyed by the Jem'Hadar after a failed attempt to destroy a new Dominion Vessel. Only three people survived the destruction of the ship (Jake Sisko, Nog, and Collins, a member of Red Squad)."
+    },
+    {
+       "Class":"Defiant",
+       "Name":"USS Monitor",
+       "Registry":"NCC-75001",
+       "Details":"Mentioned in both the books The Return and Preserver, lost under command of Captain John Scott Lewinski attempting to set new warp speed record with recovered Borg transwarp drive."
+    },
+    {
+       "Class":"Deneva",
+       "Name":"USS Arcos",
+       "Registry":"NCC-6237",
+       "Details":"Destroyed by a warp core breach near Turkana IV in 2367. Crew evacuates to the planet's surface and is rescued by the Enterprise-D."
+    },
+    {
+       "Class":"Deneva",
+       "Name":"USS LaSalle",
+       "Registry":"NCC-6203",
+       "Details":"Reports unusual radiation anomalies in the Gamma Arigulon system."
+    },
+    {
+       "Class":"Dreadnought",
+       "Name":"USS Vengeance",
+       "Registry":"NCC-177358",
+       "Details":"Developed by Starfleet Admiral Alexander Marcus of Section 31 to combat the Klingon Empire."
+    },
+    {
+       "Class":"Einstein",
+       "Name":"USS Kelvin",
+       "Registry":"NCC-0514",
+       "Details":"In the timeline at the start of the movie Star Trek, the Kelvin was in service with Starfleet in the early 23rd century. In 2233, the Kelvin was under the command of Captain Richard Robau; his first officer was Lieutenant Commander George Kirk. Kirk's wife, Winona, was also aboard the ship at that time while she was pregnant with their son, James T. Kirk. The Kelvin was destroyed by the Romulan mining ship Narada, which arrived from the distant future through an artificial black hole. Named for director J. J. Abrams' grandfather. Its registry number, NCC-0514, comes from Abrams's birthdate of May 14."
+    },
+    {
+       "Class":"Erewhon",
+       "Name":"SS Santa Maria",
+       "Registry":"NCC-529",
+       "Details":"Personnel Transport about 4 times the size of the Runabout. Cannibalised for parts and for use as a shelter by human settlers in a colony that rejects technology."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Al-Batani",
+       "Registry":"NCC-42995",
+       "Details":"Although it never appeared on screen, the Al-Batani is mentioned in dialogue as the first ship aboard which Kathryn Janeway served, which at the time was captained by Tom Paris' father Owen Paris. Never defined on screen, the class and registry number come from the non-canon Star Trek Encyclopedia."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Berlin",
+       "Registry":"NCC-14232",
+       "Details":"Patrolled the Romulan Neutral Zone."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Cairo",
+       "Registry":"NCC-42136",
+       "Details":"Transfers Captain Edward Jellico to the Enterprise-D."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Charleston",
+       "Registry":"NCC-42285",
+       "Details":"Transported three previously cryogenically frozen people to Earth. Part of the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Crazy Horse",
+       "Registry":"NCC-50446",
+       "Details":"Part of Task Force 3 sent to face an anticipated Borg invasion. Set to rendezvous with the Enterprise-D to transfer Rear Admiral Erik Pressman."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Crockett",
+       "Registry":"NCC-38955",
+       "Details":"Transported Admiral Mitsuya to Deep Space Nine."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Dallas",
+       "Registry":"NCC-2019",
+       "Details":"Dedication plaque states \"Last starship of her class\""
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701-B",
+       "Details":"Ship aboard which James T. Kirk is lost and presumed dead. First commanded by Captain Jon Harriman."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Excelsior",
+       "Registry":"NCC-2000, previously NX-2000",
+       "Details":"Pathfinder and transwarp drive testbed. In The Search for Spock, the ship was dubbed 'the great experiment' and was days away from its first test run. It was unexpectedly called into service to stop Admiral Kirk and his crew from stealing the soon to be decommissioned Enterprise. Attempting to use the transwarp drive to bring the ship back to spacedock, the Excelsior was sabotaged by Montgomery Scott and was left inoperable. Following the embarrassing failure, the Excelsior underwent repairs in spacedock before its recommission into active duty. Fails in attempt to rescue Captain James T. Kirk and Dr. Leonard McCoy from Qo'noS. Helps defeat General Chang over Khitomer. Ship aboard which Tuvok serves as science officer. Commanded by Captain Styles in Star Trek III: The Search for Spock and Captain Hikaru Sulu in Star Trek VI: The Undiscovered Country."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Farragut",
+       "Registry":"NCC-2021",
+       "Details":"Transported several genetically enhanced humans to Deep Space Nine."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Fearless",
+       "Registry":"NCC-14598",
+       "Details":"Assigned to planetary mapping in the Beta Mahoga system. Received new warp technology Briefly seen in The Next Generation Episode \" Where No One Has Gone Before\""
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Fredrickson",
+       "Registry":"NCC-42111",
+       "Details":"Briefly at Utopia Planitia Fleet Yards. Serves in the Dominion War."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Gorkon",
+       "Registry":"NCC-40512",
+       "Details":"Sent to face a possible Borg invasion."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Grissom",
+       "Registry":"NCC-42857",
+       "Details":"Assists the Enterprise-D during a contamination problem on Beta Agni II. Name pays tribute to astronaut Gus Grissom, commander of Apollo 1. Destroyed at the Battle of Ricktor Prime."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Hood",
+       "Registry":"NCC-42296",
+       "Details":"William Riker's assignment before his transfer to the USS Enterprise-D. Part of the tachyon blockade during the Klingon Civil War. Participates in the Battle for Deep Space 9 and First Battle of Chin'toka. Part of Battle Group Omega sent to intercept Reman warship Scimitar."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Intrepid",
+       "Registry":"NCC-38907",
+       "Details":"Responded to a Klingon distress call from the Khitomer outpost following a Romulan attack."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Lakota",
+       "Registry":"NCC-42768",
+       "Details":"Commanded by Captain Erika Benteen. Attempts to stop USS Defiant from reaching Earth under the orders of the rogue admiral James Leyton."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Malinche",
+       "Registry":"NCC-38997",
+       "Details":"Commanded by Captain George Sanders. Patrolled the Cardassian Border before the Dominion War. Severely damaged by the Maquis led by Michael Eddington. Destroyed in 2381 during the Borg Invasion."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Melbourne",
+       "Registry":"NCC-62043",
+       "Details":"Offered to William Riker to command. Starfleet flagship at the Battle of Wolf 359, where it is destroyed."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Okinawa",
+       "Registry":"NCC-13958",
+       "Details":"Ship commanded by Admiral James Leyton and ship on which Benjamin Sisko served as first officer"
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Paris (Simulation ship)",
+       "Registry":"NCC-2008",
+       "Details":"Simulated Excelsior class vessel used by Academy trainees in Star Trek: Starfleet Academy."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Repulse",
+       "Registry":"NCC-2544",
+       "Details":"Katherine Pulaski's assignment before the USS Enterprise-D. Served in the Dominion War."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Roosevelt",
+       "Registry":"NCC-2573",
+       "Details":"Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Excelsior",
+       "Name":"USS Valley Forge",
+       "Registry":"NCC-43305",
+       "Details":"Damaged by an orbital defense platform at the Battle of Chin'toka."
+    },
+    {
+       "Class":"Freedom",
+       "Name":"USS Concorde",
+       "Registry":"NCC-68711",
+       "Details":"Assigned near the Romulan Neutral Zone in an alternate timeline."
+    },
+    {
+       "Class":"Freedom",
+       "Name":"USS Firebrand",
+       "Registry":"NCC-68723",
+       "Details":"Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Freedom",
+       "Name":"USS Mesquite",
+       "Registry":"NCC-1709-A",
+       "Details":"Training ship, assigned to Star Base 001. mentioned in Star Trek: Tactical Assault."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Challenger",
+       "Registry":"NCC-71099",
+       "Details":"Witnesses the return of USS Voyager to Earth. Commanded by Captain Geordi La Forge in an alternate future."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Cortez",
+       "Registry":"NCC-78012",
+       "Details":"Referred to by Chief O'Brien and Captain Sisko during the mission to retake DS9. Lost patrolling Cardassian border"
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Dauntless",
+       "Registry":"NCC-71879",
+       "Details":"First ship under players command in Star Trek: Bridge Commander. Destroyed while escorting a transport by Cardassian ships."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701-D",
+       "Details":"Primary setting for Star Trek: The Next Generation. Captained by Jean-Luc Picard. Launched in 2363. Destroyed in 2371. Engineering section destroyed by warp core breach at Veridian III. Saucer section crash landed on Veridian III and rendered unsalvageable."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Excalibur",
+       "Registry":"NCC-26517-A",
+       "Details":"Commanded by Captain Mackenzie Calhoun, primary setting for the latter part of Star Trek: New Frontier as successor to the Ambassador class ship of the same name."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Galaxy",
+       "Registry":"NCC-70637 (NX-70637)",
+       "Details":"Pathfinder. Participates in the Battle for Deep Space 9, First Battle of Chin'toka, and Battle of Cardassia. Part of Battle Group Omega sent to intercept Reman warship Scimitar."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS London",
+       "Registry":"NCC-2012-C",
+       "Details":"Participates in the Battle for Deep Space 9."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Musashi",
+       "Registry":"NCC-71809",
+       "Details":"Mentioned in the conversation of log transcription for Graviton Stabilizer by Ensign Nog."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Odyssey",
+       "Registry":"NCC-71832",
+       "Details":"Sent to rescue Benjamin Sisko from the Jem'Hadar. Destroyed in the rescue attempt."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Robinson",
+       "Registry":"NCC-71842",
+       "Details":"Taken command of by Benjamin Sisko after the Borg Invasion of 2381 in the novel Star Trek: Typhon Pact - Rough Beasts of Empire."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS San Francisco",
+       "Registry":"NCC-69480",
+       "Details":"Minor supporting vessel in Star Trek: Bridge Commander. Fate uncertain."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Sarek",
+       "Registry":"NCC-72075",
+       "Details":"Replaced USS Cortez in formation during operation to retake DS9"
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Trident",
+       "Registry":"NCC-31347",
+       "Details":"Commanded by Captain Elizabeth Shelby and later Captain Kat Mueller in Star Trek: New Frontier."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Trinculo",
+       "Registry":"NCC-71867",
+       "Details":"Part of the Starfleet Armada tasked with retaking Deep Space 9 from Dominion control during 'Operation Return' (DS:9 episode \"Sacrifice of Angels\")"
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Venture",
+       "Registry":"NCC-71854",
+       "Details":"Part of a Starfleet task force at Deep Space Nine during the Klingon invasion of the Cardassian Union. Participates in the Battle for Deep Space 9 and the First Battle of Chin'toka."
+    },
+    {
+       "Class":"Galaxy",
+       "Name":"USS Yamato",
+       "Registry":"NCC-71807 or NCC-1305-E",
+       "Details":"Crew discovered Iconian artifacts but is infected by a computer virus that causes antimatter containment loss. The virus causes the ship to explode with all hands lost. Commanded by Captain Donald Varley."
+    },
+    {
+       "Class":"Galen",
+       "Name":"USS Galen",
+       "Registry":"NX-86350",
+       "Details":"Prototype, commanded by Commander Clarissa Glenn. Part of the Project Full Circle in the Star Trek: Voyager relaunch novels."
+    },
+    {
+       "Class":"Hokule?a",
+       "Name":"USS Tripoli",
+       "Registry":"NCC-19386",
+       "Details":"Discovered Data. Later assigned to Qualor II."
+    },
+    {
+       "Class":"Intrepid",
+       "Name":"USS Bellerophon",
+       "Registry":"NCC-74705",
+       "Details":"Transports Federation personnel to a summit on Romulus. Flagship of Vice Admiral Ross during parts of the Dominion War."
+    },
+    {
+       "Class":"Intrepid",
+       "Name":"USS Intrepid",
+       "Registry":"NCC-74600",
+       "Details":"Pathfinder vessel. Part of Battle Group Omega sent to intercept Reman warship Scimitar."
+    },
+    {
+       "Class":"Intrepid",
+       "Name":"USS Pathfinder",
+       "Registry":"NCC-74562",
+       "Details":"Captain Christine McDonald's new command in the book Star Trek: Preserver. Destroyed in battle with USS Enterprise (NCC-1701-E) and Ferengi Marauder-class starship Leveraged Buyout around planet Halkan."
+    },
+    {
+       "Class":"Intrepid",
+       "Name":"USS Voyager",
+       "Registry":"NCC-74656",
+       "Details":"Primary setting of Star Trek: Voyager�: (TV Series) . Commanded by Captain Kathryn Janeway. Commanded by Captain Chakotay in the \"Enemy of My Enemy\" book series, then commanded by Captain Afsarah Eden in the novel Unworthy, then by Captain Chakotay as final commander in the novels Full Circle and Children of the Storm."
+    },
+    {
+       "Class":"Intrepid",
+       "Name":"USS Liberty",
+       "Registry":"NX-74010",
+       "Details":"Part of Battle Group Omega sent to intercept Reman warship Scimitar. Commanded by Captain Carl S. Bouchillon."
+    },
+    {
+       "Class":"Intrepid",
+       "Name":"USS Sally Ride",
+       "Registry":"NCC-74710",
+       "Details":"Designed for deep space exploration and scientific discovery. It is the third ship in the Intrepid-class, having been commissioned at the same time as the USS Voyager. It has a cruising speed of warp 6 and a maximum sustainable speed of warp 9.975. Its armaments include ablative armor and quantum torpedoes. Commanded by Capt. Rafael Martinez. It appears in the Geek & Sundry web show Shield of Tomorrow."
+    },
+    {
+       "Class":"Instanbul",
+       "Name":"USS Constantinople",
+       "Registry":"NCC-34852",
+       "Details":"Suffered a hull breach transporting colonists to Gravesworld."
+    },
+    {
+       "Class":"Instanbul",
+       "Name":"USS Havana",
+       "Registry":"NCC-34043",
+       "Details":"Scheduled to rendezvous with the Enterprise-D in 2369."
+    },
+    {
+       "Class":"Instanbul",
+       "Name":"USS Sarajevo",
+       "Registry":"NCC-38529",
+       "Details":"Lost in the Gamma Quadrant in 2371. Later recovered and served in the Dominion War."
+    },
+    {
+       "Class":"Korolev",
+       "Name":"USS Goddard",
+       "Registry":"NCC-59621",
+       "Details":"Delayed rendezvous with the Enterprise-D after the Acamarian Truce's signing. Part of the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Korolev",
+       "Name":"USS Korolev",
+       "Registry":"NCC-1650",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Luna",
+       "Registry":"NX-80101",
+       "Details":"The prototype for the Luna-class. The ship was destroyed by a catastrophic engine failure before the events described in the novel Taking Wing of the Star Trek: Titan novel series took place."
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Titan",
+       "Registry":"NCC-80102",
+       "Details":"The USS Titan is the first command of Captain William Thomas Riker, former first officer of the USS Enterprise-D and USS Enterprise-E.. A Luna-class starship, designed primarily for scientific discovery. Described as 450 meters long, the Titan was built with state-of-the-art science facilities as opposed to being a more tactically pronounced starship. With a complement of about 350 persons, the USS Titan comprises the most racially diverse crew in Starfleet, with less than 15% of the population being human, as well as a number of non-humanoid beings. A full set of schematics of the USS Titan is available in the novel Sword of Damocles of the Star Trek: Titan novel series."
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Oberon",
+       "Registry":"NCC-80103",
+       "Details":""
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Europa",
+       "Registry":"NCC-80104",
+       "Details":""
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Io",
+       "Registry":"NCC-80105",
+       "Details":""
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Triton",
+       "Registry":"NCC-80106",
+       "Details":""
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Ganymede",
+       "Registry":"NCC-80107",
+       "Details":""
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Amalthea",
+       "Registry":"NCC-80108",
+       "Details":""
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Callisto",
+       "Registry":"NCC-80109",
+       "Details":"Captained by Admiral Trenton Cole, a long time friend of Picard's."
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Rhea",
+       "Registry":"NCC-80110",
+       "Details":"Captained by Captain Bazel, a Saurian."
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Charon",
+       "Registry":"NCC-80111",
+       "Details":"Captained by Bellatora Fortis and destroyed during the novel Sword of Damocles of the Star Trek: Titan novel series."
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Galatea",
+       "Registry":"NCC-80112",
+       "Details":""
+    },
+    {
+       "Class":"Luna",
+       "Name":"USS Krakatoa",
+       "Registry":"NCC-80115",
+       "Details":"Captained by Bartholomew Stavisky, a long time friend of Benjamin Sisko. Last command was USS Illinois NCC-12512 States class."
+    },
+    {
+       "Class":"Magee",
+       "Name":"USS Shran",
+       "Registry":"NCC-1413",
+       "Details":"Destroyed at the Battle at the Binary Stars"
+    },
+    {
+       "Class":"Malachowski",
+       "Name":"USS Clarke",
+       "Registry":"NCC-1661",
+       "Details":"Destroyed at the Battle at the Binary Stars"
+    },
+    {
+       "Class":"Mediterranean",
+       "Name":"USS Lalo",
+       "Registry":"NCC-43837",
+       "Details":"Reports a \"hiccup\" in time that resulted from Dr. Paul Manheim's experiments. Destroyed by the Borg."
+    },
+    {
+       "Class":"Mediterranean",
+       "Name":"USS Wyoming",
+       "Registry":"NCC-43730",
+       "Details":"Ship on which Tuvok served."
+    },
+    {
+       "Class":"Merced",
+       "Name":"USS Merced",
+       "Registry":"NCC-37120",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Merced",
+       "Name":"USS Trieste",
+       "Registry":"NCC-37124",
+       "Details":"Fell through a wormhole during Data's tour of duty. Stationed near Starbase 74 when the Enterprise-D is hijacked by the Bynars."
+    },
+    {
+       "Class":"Merian",
+       "Name":"USS Curie",
+       "Registry":"NCC-81890",
+       "Details":"Commanded by Captain Xin Chan. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+    },
+    {
+       "Class":"Merian",
+       "Name":"USS Hawking",
+       "Registry":"NCC-81897",
+       "Details":"Commanded by Captain Bal Itak. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+    },
+    {
+       "Class":"Merian",
+       "Name":"USS Merian",
+       "Registry":"Unknown",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Merian",
+       "Name":"USS Planck",
+       "Registry":"NCC-81894",
+       "Details":"Commanded by Captain Hosc T'Mar. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Aephas",
+       "Registry":"unknown",
+       "Details":"Featured in the tie-in novel Star Trek: Seekers #4: All That's Left."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Brittain",
+       "Registry":"NCC-21166",
+       "Details":"Crew went insane due to loss of REM sleep."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Helin",
+       "Registry":"NCC-1692",
+       "Details":"Patrolled the Romulan neutral zone."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Lantree",
+       "Registry":"NCC-1837",
+       "Details":"Crew died after exposure to genetically engineered humans. Destroyed by the USS Enterprise-D."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Majestic",
+       "Registry":"NCC-31060",
+       "Details":"Destroyed at the Battle for Deep Space 9."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Nautilus",
+       "Registry":"NCC-31910",
+       "Details":"Participates in the First Battle of Chin'toka."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Reliant",
+       "Registry":"NCC-1864",
+       "Details":"Ship on which Pavel Chekov serves as first officer. Assigned to Project Genesis and later hijacked by Khan Noonien Singh. Destroyed by Genesis Device detonation."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Saratoga",
+       "Registry":"NCC-1887",
+       "Details":"Disabled by the Whale Probe."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Saratoga",
+       "Registry":"NCC-31911",
+       "Details":"Ship aboard which Benjamin Sisko serves as first officer. Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Saratoga",
+       "Registry":"NCC-31911-A",
+       "Details":"Replaced previous Saratoga; little else known."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS ShirKahr",
+       "Registry":"NCC-31905",
+       "Details":"Destroyed in the First Battle of Chin'toka."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS SeaTac",
+       "Registry":"NCC-1924",
+       "Details":"Destroyed at the Battle for Deep Space 9."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Tempest (simulation ship)",
+       "Registry":"NCC-1852",
+       "Details":"Simulated Miranda class vessel used by Academy trainees in Star Trek: Starfleet Academy."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Tiananmen",
+       "Registry":"NCC-21382",
+       "Details":"Part of the tachyon blockade during the Klingon Civil War. Went MIA while patrolling the Cardassian border during the Dominion War. Participates at the First Battle of Chin'toka. Named for the Tiananmen Square protests of 1989."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Trial",
+       "Registry":"NCC-1948",
+       "Details":"Part of a Starfleet task force at Deep Space Nine during the Klingon invasion of the Cardassian Union. Participates in the Battle for Deep Space 9."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Samuel B. Roberts",
+       "Registry":"NCC-2020",
+       "Details":"Part of the Starfleet task force during the final battle of the Dominion war. It was brought out of mothball status just two months before the final battle after having been extensively updated. It was badly damaged in the battle but survived. It was later decommissioned again and then scrapped after being deemed too far damaged to repair and mothball again."
+    },
+    {
+       "Class":"Miranda",
+       "Name":"USS Lynx",
+       "Registry":"NCC-78056",
+       "Details":"The Lynx was a troop transport during the Third Klingon And Federation War. She was later destroyed in a skirmish with a couple of Klingon Birds Of Prey, with all hands lost."
+    },
+    {
+       "Class":"Mulciber",
+       "Name":"USS Achilles",
+       "Registry":"NCC-77024",
+       "Details":"Commanded by Captain Tillum Drafar. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Bellerephon",
+       "Registry":"NCC-62048",
+       "Details":"Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Melbourne",
+       "Registry":"NCC-62043",
+       "Details":"Destroyed at the Battle of Wolf 359. Remains of ship visible in aftermath of the battle in Star Trek: The Next Generation episode \"The Best of Both Worlds, Part 2\". Registry and name same as Excelsior class ship seen in Star Trek: Deep Space Nine pilot episode \"Emissary\""
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Bonchune",
+       "Registry":"NCC-70915",
+       "Details":"Sent to recover the USS Prometheus."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Endeavour",
+       "Registry":"NCC-71805",
+       "Details":"Part of the tachyon blockade during the Klingon Civil War. Participates at the Battle of Sector 001."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Farragut",
+       "Registry":"NCC-60597",
+       "Details":"Helps recover Enterprise-D crew at Veridian III. Destroyed in the Lembatta Cluster by Klingons."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Hera",
+       "Registry":"NCC-62006",
+       "Details":"Disappeared while under the command of Captain Silva La Forge with a mostly Vulcan crew of 300."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Honsh?",
+       "Registry":"NCC-60205",
+       "Details":"Destroyed while transporting Gul Dukat to stand trial."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Leeds",
+       "Registry":"NCC-70352",
+       "Details":"Participates in the Battle for Deep Space 9."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Lexington",
+       "Registry":"NCC-61832",
+       "Details":"Participates in the Battle of Sector 001."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Merrimack",
+       "Registry":"NCC-61827",
+       "Details":"Transported Sarek from Legara IV to Vulcan."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Monitor",
+       "Registry":"NCC-61826",
+       "Details":"Sent to the Romulan Neutral Zone in anticipation of a possible Romulan attack."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Nebula",
+       "Registry":"NX-60147",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Phoenix",
+       "Registry":"NCC-65420",
+       "Details":"Carries out unauthorized attacks on Cardassian ships while under the command of Captain Benjamin Maxwell. Not specified whether she's named for the mythological bird, the American city, or humanity's first FTL-capable spacecraft."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Prometheus",
+       "Registry":"NCC-71201",
+       "Details":"Used by Dr. Gideon Seyetik in his project to reignite a dead star."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Proxima",
+       "Registry":"NCC-61952",
+       "Details":"Missing in the Gamma Quadrant."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Ranger",
+       "Registry":"NX-31472-B",
+       "Details":"Lost during the Borg invasion of 2381, the vessel was defending the planet Khitomer."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Sutherland",
+       "Registry":"NCC-72015",
+       "Details":"Briefly commanded by Lieutenant Commander Data while part of the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS T'Kumbra",
+       "Registry":"NCC-62100",
+       "Details":"All-Vulcan crew challenges the Deep Space Nine crew to a game of baseball. Participated in the Dominion War."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Ulysses",
+       "Registry":"NCC-66808",
+       "Details":"Studied protoplanetary masses in the Helaspont Nebula."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Nightingale",
+       "Registry":"NCC-60805",
+       "Details":"Minor starship in Star Trek: Bridge Commander. Used as a search-and-rescue vessel. Fate uncertain."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Khitomer",
+       "Registry":"NCC-66613",
+       "Details":"Minor starship in Star Trek: Bridge Commander. Leads a failed assault on Alioth 6. Fate uncertain."
+    },
+    {
+       "Class":"Nebula",
+       "Name":"USS Berkeley",
+       "Registry":"NCC-64720",
+       "Details":"Minor starship in Star Trek: Bridge Commander. Originally sent to study the Vesuvi Dust Cloud but fails due to the intense radiation of the dust cloud. Attacked by a Kessok probe but survives. Fate uncertain."
+    },
+    {
+       "Class":"New Orleans",
+       "Name":"USS Kyushu",
+       "Registry":"NCC-65491",
+       "Details":"Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"New Orleans",
+       "Name":"USS Renegade",
+       "Registry":"NCC-63102",
+       "Details":"Rendezvous with the Enterprise-D over Dytallix B, where Captain Tryla Scott meets with the Jean-Luc Picard to discuss an alien conspiracy to take over Starfleet."
+    },
+    {
+       "Class":"New Orleans",
+       "Name":"USS Rutledge",
+       "Registry":"NCC-57295",
+       "Details":"Ship aboard which Miles O'Brien and Benjamin Maxwell served during the Cardassian War. Participated in the counterattack against the Klingons in the Archanis sector."
+    },
+    {
+       "Class":"New Orleans",
+       "Name":"USS Thomas Paine",
+       "Registry":"NCC-65530",
+       "Details":"Rendezvous with the Enterprise-D over Dytallix B, where Captain Rixx meets with the Jean-Luc Picard to discuss an alien conspiracy to take over Starfleet. Part of the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Niagara",
+       "Name":"USS Princeton",
+       "Registry":"NCC-59804",
+       "Details":"Destroyed at the Battle of Wolf 359."
+    },
+    {
+       "Class":"Niagara",
+       "Name":"USS Wellington",
+       "Registry":"NCC-28473",
+       "Details":"Ship aboard which Ro Laren served, and where she was posted before being court-martialed. Underwent a computer system upgrade by Bynar technicians at Starbase 74."
+    },
+    {
+       "Class":"Nimitz",
+       "Name":"USS Europa",
+       "Registry":"NCC-1648",
+       "Details":"Participates in the Battle at the Binary Stars in 2256"
+    },
+    {
+       "Class":"Norway",
+       "Name":"USS Budapest",
+       "Registry":"NCC-64923",
+       "Details":"Participates in the Battle of Sector 001."
+    },
+    {
+       "Class":"Norway",
+       "Name":"USS Norway",
+       "Registry":"NX-62341, to NCC-62341",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Nova",
+       "Name":"USS Equinox",
+       "Registry":"NCC-72381",
+       "Details":"Stranded in the Delta Quadrant. Heavily damaged by USS Voyager and destroyed by self-destruct initiated by Captain Ransom."
+    },
+    {
+       "Class":"Nova",
+       "Name":"USS Everett",
+       "Registry":"NCC-72392",
+       "Details":"Commanded by Captain Claudia Alisov. Attached to the Department of Temporal Investigations. Appears in the Department of Temporal Investigations novels."
+    },
+    {
+       "Class":"Nova",
+       "Name":"USS Lionheart",
+       "Registry":"NCC-73808",
+       "Details":"Medical vessel temporarily commanded by Christine Vale in the novel Star Trek: The Fall - The Poisoned Chalice."
+    },
+    {
+       "Class":"Nova",
+       "Name":"USS Twilight",
+       "Registry":"NCC-74413",
+       "Details":"Starfleet Intelligence attached Science vessel temporarily commanded by Jaryd Harker MD in the novel Star Trek: Adamant - ."
+    },
+    {
+       "Class":"Nova",
+       "Name":"USS Nova",
+       "Registry":"NX-73515",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Nova",
+       "Name":"USS Rhode Island",
+       "Registry":"NCC-72701",
+       "Details":"Commanded by Captain Harry Kim in an alternate future."
+    },
+    {
+       "Class":"NX",
+       "Name":"Enterprise",
+       "Registry":"NX-01",
+       "Details":"Lead ship. Captained by Jonathan Archer. Primary setting for Star Trek: Enterprise. Launched in 2151. Decommissioned in 2161."
+    },
+    {
+       "Class":"NX",
+       "Name":"Columbia",
+       "Registry":"NX-02",
+       "Details":"Commanded by Captain Erika Hernandez. Launched in 2154 and participated in Klingon-Augment crisis. After an uncertain term of service, It was eventually lost but was later discovered Intact on a desert planet in the Gamma Quadrant. Fate of crew unknown."
+    },
+    {
+       "Class":"NX",
+       "Name":"Challenger",
+       "Registry":"NX-03",
+       "Details":"Mentioned in the Star Trek: Enterprise novel The Romulan War: Beneath the Raptor's Wing."
+    },
+    {
+       "Class":"NX",
+       "Name":"Discovery",
+       "Registry":"NX-04",
+       "Details":"Mentioned in the Star Trek: Enterprise novel The Romulan War: Beneath the Raptor's Wing."
+    },
+    {
+       "Class":"NX",
+       "Name":"Atlantis",
+       "Registry":"NX-05",
+       "Details":"Mentioned in the Star Trek: Enterprise novel The Romulan War: Beneath the Raptor's Wing."
+    },
+    {
+       "Class":"NX",
+       "Name":"Endeavour",
+       "Registry":"NX-06",
+       "Details":"Mentioned in the Star Trek: Enterprise novels The Romulan War: Beneath the Raptor's Wing and The Romulan War: To Brave the Storm. Later entered Federation Starfleet service and rebuilt into Columbia class."
+    },
+    {
+       "Class":"NX",
+       "Name":"Intrepid",
+       "Registry":"NX-07",
+       "Details":"Commanded by Jason Lambert. Mentioned in the Star Trek: The Next Generation novel Indistinguishable from Magic."
+    },
+    {
+       "Class":"NX",
+       "Name":"ISS Enterprise",
+       "Registry":"NX-01",
+       "Details":"The Mirror Universe counterpart of the Enterprise (NX-01)."
+    },
+    {
+       "Class":"NX",
+       "Name":"ISS Avenger",
+       "Registry":"NX-09",
+       "Details":"In the Mirror Universe, an Imperial Starfleet warship."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Banting (simulation ship)",
+       "Registry":"NCC-639",
+       "Details":"Simulated Oberth class vessel used by Academy trainees in Star Trek: Starfleet Academy."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Biko",
+       "Registry":"NCC-50331",
+       "Details":"Rendezvouses with the USS Enterprise-D at Deinonychus VII."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Bonestell",
+       "Registry":"NCC-31600",
+       "Details":"Destroyed in the Battle of Wolf 359."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Cochrane",
+       "Registry":"NCC-59318",
+       "Details":"Ferries Admiral Norah Satie to the Enterprise-D. and Julian Bashir and Lieutenant Jadzia Dax to Deep Space Nine."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Copernicus",
+       "Registry":"NCC-640",
+       "Details":"Berthed at spacedock."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Grissom",
+       "Registry":"NCC-638",
+       "Details":"Transports David Marcus and Lieutenant Saavik to the Genesis planet. Destroyed by Klingons. Named for NASA astronaut Virgil I. \"Gus\" Grissom who died during preparations and testing for the Apollo One mission. Commanded by Captain J. T. Esteban"
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS LaGrange",
+       "Registry":"NCC-617",
+       "Details":"Transports negotiators in the game Star Trek: Starfleet Academy. This ship is destroyed by the simulator."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Oberth",
+       "Registry":"NCC-602",
+       "Details":"First ship of the class. Assigned to deep space exploration in 2293, when \"Operation Retrieve\" was proposed."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Pegasus",
+       "Registry":"NCC-53847",
+       "Details":"Equipped with an illegal prototype cloaking device that malfunctions, causing the ship to become embedded inside an asteroid."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Raman",
+       "Registry":"NCC-29487",
+       "Details":"Lost while investigating Marijne VII."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"SS Tsiolkovsky",
+       "Registry":"NCC-53911",
+       "Details":"Crew infected by the Psi 2000 virus. Destroyed in asteroid collision."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Valiant",
+       "Registry":"NCC-20000",
+       "Details":"Helps recover Enterprise-D crew at Veridian III."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"USS Yosemite",
+       "Registry":"NCC-19002",
+       "Details":"Studied the plasma arc between binary stars."
+    },
+    {
+       "Class":"Oberth",
+       "Name":"SS Vico",
+       "Registry":"NAR-18834",
+       "Details":"Research vessel that was in service with Starfleet in the mid-24th century. This ship was on loan to a civilian agency, and was given a civilian registry. Vico operated out of Starbase 514. In 2368, the Vico explored an astronomical formation known as a black cluster. Found derelict by Enterprise-D."
+    },
+    {
+       "Class":"Odyssey",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701-F",
+       "Details":"Commanded by Captain Va'kel Shon. Participates in the second battle for Deep Space Nine as well as the final battle against the Iconians in Star Trek: Online."
+    },
+    {
+       "Class":"Odyssey",
+       "Name":"USS Houston",
+       "Registry":"NCC 97284",
+       "Details":"The Houston, commanded by Admiral D'Vak, leads the federation in an assault against the Borg Queen's Octahedron in the space around the Unicomplex."
+    },
+    {
+       "Class":"Odyssey",
+       "Name":"USS Odyssey",
+       "Registry":"NX-97000",
+       "Details":"First ship of the Odyssey-class. Commissioned at Utopia Planetia. Currently in service."
+    },
+    {
+       "Class":"Odyssey",
+       "Name":"USS Yorktown",
+       "Registry":"NCC-97005",
+       "Details":"The Yorktown fought at the battle of sol in the Iconian war, and was nearly destroyed. It was later found by Starfleet and refitted into the Yorktown subclass of the Odyssey class starships."
+    },
+    {
+       "Class":"Odyssey",
+       "Name":"USS Hamilton",
+       "Registry":"NCC-97014",
+       "Details":"The Hamilton fought in many skirmishes along the Klingon border during the Third Klingon And Federation War. She later fought in the second battle of DS9 alongside ships like the USS Enterprise. The Hamilton was a major component during the Iconion War. She was later destroyed in a ??hur?q?? Attack at ??DS9??."
+    },
+    {
+       "Class":"Odyssey",
+       "Name":"USS Kent",
+       "Registry":"NCC-97165",
+       "Details":"The Kent was a ship of exploration in the early 25th Century. She later went missing during the Iconion War. Two years after she went missing, a fragment of her hull was found adrift in the Ba'Aja sector,The rest of the ship was later found in the Boreth Sector in 2429."
+    },
+    {
+       "Class":"Olympic",
+       "Name":"USS Olympic",
+       "Registry":"NCC-54905",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Olympic",
+       "Name":"USS Nobel",
+       "Registry":"NCC-55012",
+       "Details":"Visited Deep Space Three to search for the missing USS Hera. Served in the Dominion War."
+    },
+    {
+       "Class":"Olympic",
+       "Name":"USS Pasteur",
+       "Registry":"NCC-58925",
+       "Details":"Ship commanded by Beverly Picard in an alternate timeline. Destroyed by warp core breach in the Devron system. Featured in the episode \"All Good Things...\"."
+    },
+    {
+       "Class":"Prometheus",
+       "Name":"USS Prometheus",
+       "Registry":"NX-59650 later NX74913",
+       "Details":"First class starship; still under development; captured by Romulans and recovered by Starfleet personnel, after the EMH from USS Voyager and the EMH Mark II incapacitated the Romulan crew."
+    },
+    {
+       "Class":"Renaissance",
+       "Name":"USS Aries",
+       "Registry":"NCC-45167",
+       "Details":"Ship offered to William Riker to command. Part of the tachyon blockade during the Klingon Civil War."
+    },
+    {
+       "Class":"Renaissance",
+       "Name":"USS Hornet",
+       "Registry":"NCC-45231",
+       "Details":"Part of the tachyon blockade during the Klingon Civil War. Named for the World War II aircraft carrier. Participates in the Dominion War."
+    },
+    {
+       "Class":"Renaissance",
+       "Name":"USS Maryland",
+       "Registry":"NCC-45109",
+       "Details":"Missing in the Gamma Quadrant."
+    },
+    {
+       "Class":"Renaissance",
+       "Name":"USS Renaissance",
+       "Registry":"NCC-40521",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Rigel",
+       "Name":"USS Akagi",
+       "Registry":"NCC-62158",
+       "Details":"Part of the tachyon blockade during the Klingon Civil War. Served in the Dominion War. Named for HIJMS Akagi."
+    },
+    {
+       "Class":"Rigel",
+       "Name":"USS Rigel",
+       "Registry":"NCC-62000",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Rigel",
+       "Name":"USS Tolstoy",
+       "Registry":"NCC-62095",
+       "Details":"Destroyed in the Battle of Wolf 359."
+    },
+    {
+       "Class":"Saber",
+       "Name":"USS da Vinci",
+       "Registry":"NCC-81623",
+       "Details":"Lead ship in Starfleet Corps of Engineers novel series. Named for Leonardo da Vinci."
+    },
+    {
+       "Class":"Saber",
+       "Name":"USS Endurance",
+       "Registry":"NCC-70114",
+       "Details":"Mentioned as replacement ship for Captain Christine McDonald in the book Star Trek: Preserver."
+    },
+    {
+       "Class":"Saber",
+       "Name":"USS Falchion",
+       "Registry":"Unknown",
+       "Details":"Featured in the novel Star Trek: The Fall - A Ceremony of Losses."
+    },
+    {
+       "Class":"Saber",
+       "Name":"USS Marco Polo",
+       "Registry":"Unknown",
+       "Details":"Commanded by Deanna Troi during the Gateways crisis in the novel Star Trek: The Next Generation - Gateways: Doors Into Chaos."
+    },
+    {
+       "Class":"Saber",
+       "Name":"USS Musgrave",
+       "Registry":"Unknown",
+       "Details":"Featured in the novel Star Trek - A Singular Destiny."
+    },
+    {
+       "Class":"Saber",
+       "Name":"USS Saber",
+       "Registry":"NCC-79221",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Saber",
+       "Name":"USS Yeager",
+       "Registry":"NCC-61947",
+       "Details":"Participates in the Battle of Sector 001."
+    },
+    {
+       "Class":"Sequoia",
+       "Name":"USS Sequoia",
+       "Registry":"NCC-70070",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Sequoia",
+       "Name":"USS Yellowstone",
+       "Registry":"NCC-70073",
+       "Details":"Transports Ensign Melora Pazlar to Deep Space Nine in 2370."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Atlas",
+       "Registry":"NCC-82745",
+       "Details":"Commanded by Morgan Bateson in the 2380s."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Bozeman",
+       "Registry":"NCC-1941-A",
+       "Details":"Successor to the first Bozeman."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701-E",
+       "Details":"Primary setting for Star Trek: First Contact, Star Trek: Insurrection, and Star Trek Nemesis and made an Appearance on Bridge Commander Captained by Jean-Luc Picard."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS First Minister",
+       "Registry":"Unknown",
+       "Details":"Mentioned in the novel Star Trek: Typhon Pact - Plagues of Night."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Gibraltar",
+       "Registry":"NCC-75689",
+       "Details":"Sacrificed itself against the Borg in 2381 in Star Trek: Destiny."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS President",
+       "Registry":"Unknown",
+       "Details":"Mentioned in the novel Star Trek: Typhon Pact - Plagues of Night."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Sovereign",
+       "Registry":"NX-73811 - NCC-73811",
+       "Details":"Pathfinder ship. Appears in Star Trek Bridge Commander. Also features in the Shatnerverse novel Spectre."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Sentinel",
+       "Registry":"NCC-17331",
+       "Details":"Appears in Star Trek: Invasion. Also mentioned in the great transaction for graviton stabilizers"
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Tempest",
+       "Registry":"Unknown",
+       "Details":"Participates in the Borg Invasion of 2381 in Star Trek: Destiny."
+    },
+    {
+       "Class":"Sovereign",
+       "Name":"USS Warspite",
+       "Registry":"Unknown",
+       "Details":"Appears in the novel Star Trek: The Fall - A Ceremony of Losses."
+    },
+    {
+       "Class":"Soyuz",
+       "Name":"USS Bozeman",
+       "Registry":"NCC-1941",
+       "Details":"Spends several decades caught in a temporal causality loop; Commanded by Captain Morgan Bateson (Kelsey Grammer). Named for the hometown (Bozeman, Montana) of Brannon Braga, the writer of the episode that the ship appeared in; The registration number was a reference to the 1979 film 1941."
+    },
+    {
+       "Class":"Soyuz",
+       "Name":"USS Soyuz",
+       "Registry":"NCC-1939",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Springfield",
+       "Name":"USS Chekov",
+       "Registry":"NCC-57302",
+       "Details":"Destroyed in the Battle of Wolf 359."
+    },
+    {
+       "Class":"Springfield",
+       "Name":"USS Springfield",
+       "Registry":"NCC-53500",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Starship",
+       "Name":"USS Franklin (Kelvin timeline)",
+       "Registry":"NX-326",
+       "Details":"Former United Earth Military Assault Command Operations ship relaunched in the 2160s shortly after the formation of the United Federation of Planets under the command of Balthazar Edison. One of the first ships capable of achieving Warp 4. Lost in the Gagarin Radiation Belt. Recovered by James T. Kirk and the survivors of USS Enterprise in 2263 and returned to Starbase Yorktown."
+    },
+    {
+       "Class":"Steamrunner",
+       "Name":"USS Appalachia",
+       "Registry":"NCC-52136",
+       "Details":"Participates in the Battle of Sector 001."
+    },
+    {
+       "Class":"Steamrunner",
+       "Name":"USS Steamrunner",
+       "Registry":"NX-76220 to NCC-76220",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Surak",
+       "Name":"USS Surak",
+       "Registry":"NCC-65601",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Surak",
+       "Name":"USS Zapata",
+       "Registry":"NCC-33184",
+       "Details":"Scheduled to rendezvous with the Enterprise-D. Fought in the Dominion War."
+    },
+    {
+       "Class":"Sydney",
+       "Name":"USS Jenolan",
+       "Registry":"NCC-2010",
+       "Details":"Crashed on the surface of a Dyson sphere while transporting Captain Montgomery Scott to a retirement colony. Montgomery Scott stored himself in the transporters of this starship. Destroyed"
+    },
+    {
+       "Class":"Sydney",
+       "Name":"USS Nash",
+       "Registry":"NCC-20105",
+       "Details":"Transports personnel to and from Deep Space Nine."
+    },
+    {
+       "Class":"Sydney",
+       "Name":"USS Sydney",
+       "Registry":"NCC-2005",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Theophrastus",
+       "Name":"USS Demeter",
+       "Registry":"NCC-79914",
+       "Details":"Commanded by Liam O'Donnell. Part of \"Project Full Circle\" in the Star Trek: Voyager relaunch novels."
+    },
+    {
+       "Class":"Theophrastus",
+       "Name":"USS Theophrastus",
+       "Registry":"Unknown",
+       "Details":"Presumable namesake ship for the class, and possibly named after the Swiss chemist Philippus Aureolus Theophrastus Bombastus von Hohenheim, also known as Paracelsus."
+    },
+    {
+       "Class":"Universe",
+       "Name":"USS Enterprise",
+       "Registry":"NCC-1701-J",
+       "Details":"Participates in a decisive battle against the Sphere Builders in the 26th century. Reference image page 244 The Star Trek Encyclopedia for class identification (2016 edition)."
+    },
+    {
+       "Class":"Vesta",
+       "Name":"USS Aventine",
+       "Registry":"NCC-82602",
+       "Details":"First command of Captain Ezri Dax in Star Trek: Destiny. Has prototype slipstream warp drive."
+    },
+    {
+       "Class":"Vesta",
+       "Name":"USS Capitoline",
+       "Registry":"NCC-82617",
+       "Details":"Attached to the Department of Temporal Investigations. Mentioned in the Department of Temporal Investigations novels."
+    },
+    {
+       "Class":"Vesta",
+       "Name":"USS Esquiline",
+       "Registry":"NCC-82614",
+       "Details":"Commanded by Captain Parimon Dasht. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle. Destroyed by the Omega Continuum in 2381 in The Eternal Tide."
+    },
+    {
+       "Class":"Vesta",
+       "Name":"USS Quirinal",
+       "Registry":"NCC-82610",
+       "Details":"Commanded by Captain Regina Farkas. Part of \"Project Full Circle\" in the Star Trek: Voyager novel Full Circle. Destroyed by the Omega Continuum in 2381 in The Eternal Tide."
+    },
+    {
+       "Class":"Vesta",
+       "Name":"USS Vesta",
+       "Registry":"NCC-82601",
+       "Details":"Commanded by Captain Regina Farkas. Lead ship of the Vesta class. Mothballed soon after launch due to technical issues. Relaunched and becomes part of Project Full Circle in 2381 in the Star Trek: Voyager novel Protectors."
+    },
+    {
+       "Class":"Walker",
+       "Name":"USS Shenzhou",
+       "Registry":"NCC-1227",
+       "Details":"Commanded by Captain Philippa Georgiou. First Officer was Lieutenant Commander Michael Burnham. As a result of the Battle at the Binary Stars in 2256, the crew evacuated the ship, leaving it abandoned."
+    },
+    {
+       "Class":"Wambundu",
+       "Name":"USS Drake",
+       "Registry":"NCC-20381",
+       "Details":"Command offered to William Riker, but given to Paul Rice. Ordered to investigate the Lorenze Cluster where it is destroyed by a Minosian Echo Papa 607 weapons platform."
+    },
+    {
+       "Class":"Wambundu",
+       "Name":"USS Fleming",
+       "Registry":"NCC-20316",
+       "Details":"Disabled and later destroyed at the Hekaras Corridor."
+    },
+    {
+       "Class":"Wambundu",
+       "Name":"USS Wambundu",
+       "Registry":"NCC-20300",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Wells",
+       "Name":"USS Pastak",
+       "Registry":"NCV-474438-G",
+       "Details":"Timeship that saves the character from a Tholian attack in Star Trek Online."
+    },
+    {
+       "Class":"Wells",
+       "Name":"USS Relativity",
+       "Registry":"NGV-474439-G",
+       "Details":"Timeship Relativity, from the 29th century, ship designed to transport people through time, set on a mission to prevent the destruction of the USS Voyager."
+    },
+    {
+       "Class":"Wells",
+       "Name":"USS Wells",
+       "Registry":"NGV-474438-A",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Yorkshire",
+       "Name":"USS Denver",
+       "Registry":"NCC-54927",
+       "Details":"Destroyed while transporting 517 colonists to the Beloti Sector."
+    },
+    {
+       "Class":"Yorkshire",
+       "Name":"USS Yorkshire",
+       "Registry":"NCC-54900",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Zodiac",
+       "Name":"USS Yorktown",
+       "Registry":"NCC-61137",
+       "Details":"Ordered to make long-range sensor sweeps of the Devron system in an alternate reality."
+    },
+    {
+       "Class":"Zodiac",
+       "Name":"USS Zodiac",
+       "Registry":"NCC-61000",
+       "Details":"Presumable namesake ship for the class."
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"Phoenix",
+       "Registry":"unknown",
+       "Details":"Earth spaceship used in the 21st century. It was the first Earth-made, manned spacecraft to achieve light speed using warp drive. It was practically a \"junk-bucket, mounted on top of an atomic war missile\". The Phoenix is remembered as the ship that instigated Earth's first contact with Vulcans. Featured in Star Trek: First Contact and flown by Dr. Zefram Cochrane, Commander William Riker, and Lt. Commander Geordi La Forge."
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"U.F.P.F. Challenger",
+       "Registry":"OV91951L",
+       "Details":"Commander Nick Keller. Featured in Star Trek - New Earth: Challenger and Star Trek: Challenger - Gateways: Chainmail. Built out of the USS Peleliu and named for space shuttle Challenger"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Buran",
+       "Registry":"Unknown",
+       "Details":"The ship was ambushed by Klingons about a month after the beginning of the 2256 Federation-Klingon war and apparently destroyed. Its captain at the time was Gabriel Lorca. At some point Lorca was replaced by his mirror-universe counterpart, who impersonated him and reported that ship was boarded, then set to self destruct by him so that its crew doesn't fall into Klingon hands and face degradation, torture and slow public death."
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Carolina",
+       "Registry":"Unknown",
+       "Details":"Ship ordered by Admiral Paris to intercept Gegis' ship after he stole Barclay's hologram"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"SS Conestoga",
+       "Registry":"Pre Starfleet",
+       "Details":"Ship that carried colonists to the \"lost colony\" of Terra Nova"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Curry",
+       "Registry":"NCC-42254",
+       "Details":"Pathfinder ship for the Curry class, another 'kitbash' model"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Excalibur",
+       "Registry":"Unknown",
+       "Details":"Marika Willkarah mentions this ship at the Borg crash site to Seven-of-Nine and other Borg crash survivors"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Gallico",
+       "Registry":"Unknown",
+       "Details":"Mentioned in an Arrival Log on DS9 from Starbase 58 under Capt. J. Priestly"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS G'Mat",
+       "Registry":"Unknown",
+       "Details":"Mentioned in an Arrival Log on DS9 from System C-171 under Captain M. Bligh"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Hispanola",
+       "Registry":"Unknown",
+       "Details":"Mentioned in an Arrival Log on DS9 under Captain J. Gump"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Narbonne",
+       "Registry":"Unknown",
+       "Details":"Colony Support vessel mentioned in the Star Trek: Discovery novel \"Drastic Measures\". Captained by Aurobindo Korrapati"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Olympia",
+       "Registry":"Unknown",
+       "Details":"Crashed on an L class planet during an exploration of the mission to the Beta quadrant. Captained by Lisa Cusack."
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"Starfleet Cruiser Peleliu",
+       "Registry":"Unknown",
+       "Details":"Captain Roger Lake. From Star Trek: New Earth - Challenger. Named for the Battle of Peleliu. Severely damaged and reconstructed into the UFPF Challenger"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Raven",
+       "Registry":"NAR-32450",
+       "Details":"Science and exploration vessel used by the Hansens for exploration of Delta Quadrant where Seven of Nine was assimilated by the Borg."
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Tombaugh",
+       "Registry":"Unknown",
+       "Details":"Mentioned by Seven of Nine in a log under personality of Ensign Stone. Under the command of Captain Blackwood. Assimilated by the Borg."
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Veracruz",
+       "Registry":"Unknown",
+       "Details":"Brings relief troops to AR-558"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Yorktown",
+       "Registry":"Unknown",
+       "Details":"Woman referring to herself as Cmdr Bloom meets Cmdr. Riker at Tilonius Institute for Mental Disorders Mentioned in an Arrival Log on DS9"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"Timeship Aeon",
+       "Registry":"Unknown",
+       "Details":"Piloted by Captain Braxton attempts to destroy USS Voyager but instead throws it back to 1996"
+    },
+    {
+       "Class":"Undetermined",
+       "Name":"USS Destiny",
+       "Registry":"NCC-74791",
+       "Details":"Ezri Tigan's prior assignment before transferring to Deep Space Nine"
+    }
+ ]

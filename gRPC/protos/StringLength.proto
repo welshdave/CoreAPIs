@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+service StringLengthService {
+    rpc StringLength (stream StringLengthRequest) returns (stream StringLengthReply) {}
+}
+
+message StringLengthRequest {
+    string word = 1;
+}
+
+message StringLengthReply {
+    string word = 1;
+    int32 len = 2;
+}
